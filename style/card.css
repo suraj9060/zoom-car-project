@@ -1,0 +1,28 @@
+#carData > div{
+    display: flex;
+
+   
+
+}
+#carData > div > div > img{
+   height: 200px;
+   width: 200px;
+    margin-left: 200px;
+}
+#carData> div> div> p  {
+   
+    margin-left: 200px;
+}
+#carData > div> div> h3 {
+   
+    margin-left: 200px;
+}
+
+#bookNow{
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: green;
+    align-self: flex-end;
+     margin-left: 200px;
+}
